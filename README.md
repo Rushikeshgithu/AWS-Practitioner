@@ -15,16 +15,16 @@ I will be uploading **structured notes, labs, and topic-wise study materials** a
 
 ---
 
-## 📂 Repository Structure  
+## 📂 Repository 
 
-| Folder Name | Description |
-|-------------|-------------|
-| **01_Cloud_Concepts** | AWS basics, benefits of cloud computing, shared responsibility model |
-| **02_AWS_Core_Services** | EC2, S3, RDS, VPC, Lambda, and essential AWS services |
-| **03_Security_and_Compliance** | IAM, security best practices, AWS compliance programs |
-| **04_Pricing_and_Billing** | Pricing models, cost calculators, AWS Free Tier |
-| **05_Practice_Questions** | Topic-wise and exam-style practice questions |
-| **Labs** | Step-by-step AWS hands-on labs completed during training |
+Description |
+
+ AWS basics, benefits of cloud computing, shared responsibility model |
+ EC2, S3, RDS, VPC, Lambda, and essential AWS services |
+ IAM, security best practices, AWS compliance programs |
+ Pricing models, cost calculators, AWS Free Tier |
+ Topic-wise and exam-style practice questions |
+ Step-by-step AWS hands-on labs completed during training |
 
 ---
 
