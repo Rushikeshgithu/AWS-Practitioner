@@ -1,3 +1,4 @@
+![AWS re/Start Banner](banner.png)
 # ☁️ AWS re/Start – AWS Cloud Practitioner Learning Journey  
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud_Practitioner-orange?logo=amazonaws&logoColor=white)
